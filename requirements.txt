@@ -1,0 +1,5 @@
+streamlit
+folium
+osmnx
+streamlit-folium
+shapely
